@@ -1,4 +1,4 @@
-# The AI Brain project
+# The AI Brain Project
 
 We make HLE for the brain using context and AI, as well as randomization to simulate free will.
 
